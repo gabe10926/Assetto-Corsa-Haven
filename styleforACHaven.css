@@ -1,0 +1,169 @@
+#MainNameLogo {
+    z-index: 3;
+    width: 1600px;
+    height:275px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 100px;
+    top: 650px;
+}
+
+.MainBG {
+    z-index: 1;
+    width: 1900px;
+    height: 975px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 5px;
+}
+
+.MainBG2 {
+    z-index: 1;
+    width: 1900px;
+    height: 975px ;
+    margin-left: auto; 
+    margin-right: auto;
+    position: absolute;
+    top: 980px;
+   
+}
+
+.Logo {
+    z-index: 3;
+    border-radius: 100px;
+    width: 95px;
+    height: 95px;
+    left: 30px;
+    position: absolute;
+}
+
+
+.TopMenu {
+    z-index: 3;
+    width: 1775px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 0px;
+    top: 10px;
+    display: grid;
+    padding: 0px;
+    grid-column-gap: 60px;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px 200px auto;
+}
+
+.TopMenuBG {
+    z-index: 2;
+    position: absolute;
+    width: 1950px;
+    height: 125px;
+    bottom: 820px;
+}
+
+.TopMenuPt2  {
+    z-index: 3;
+    color:rgb(255, 0, 0);
+    font-family: Arial, Verdana, sans-serif;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 30px;
+    border-color: transparent;
+}
+
+#GetStartedButton  {
+    z-index: 3;
+    color: white;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 30px;
+    width: 500px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 350px;
+    top: 410px;
+}
+
+#GetStartedImg {
+    z-index: 3;
+    position: absolute;
+    top: 1150px;
+    right: 65px;
+
+}
+
+#Rectangle0 {
+    z-index: 2;
+    position: absolute;
+    right: 30px;
+    top: 1125px;
+    
+}
+/* Make borders transparent when done*/
+#ACDownload {
+    z-index: 3;
+    position: absolute;
+    top: 1250px;
+    right: 350px;   
+    color:rgb(255, 0, 0);
+    font-family: Arial, Verdana, sans-serif;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 25px;
+    border-color: black;
+    width: 300px;
+    height: 125px;
+}
+
+#CMDownload {
+    z-index: 3;
+    position: absolute;
+    top: 1375px;
+    right: 350px;
+    color:rgb(255, 0, 0);
+    font-family: Arial, Verdana, sans-serif;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 25px;
+    border-color: black;
+    width: 300px;
+    height: 125px;
+
+}
+
+#CSPDownload {
+    z-index: 3;
+    position: absolute;
+    top: 1500px;
+    right: 350px;
+    color:rgb(255, 0, 0);
+    font-family: Arial, Verdana, sans-serif;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 25px;
+    border-color: black;
+    width: 300px;
+    height: 125px;
+
+}
+
+#StartersPackDownload {
+    z-index: 3;
+    position: absolute;
+    top: 1625px;
+    right: 350px;
+    color:rgb(255, 0, 0);
+    font-family: Arial, Verdana, sans-serif;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 25px;
+    border-color: black;
+    width: 300px;
+    height: 125px;
+
+}
+
